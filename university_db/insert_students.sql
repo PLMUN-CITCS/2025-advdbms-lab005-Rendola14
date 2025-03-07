@@ -1,3 +1,5 @@
+USE `UniversityDB`;
+
 -- Step 1: Insert student records into the `Students` table
 INSERT INTO `Students` (`FirstName`, `LastName`, `EnrollmentDate`, `Email`)  -- StudentID is auto-incremented
 VALUES
